@@ -1,0 +1,44 @@
+[
+    {
+        "id":1, 
+        "name":"Tellenzi", 
+        "description":"Zapato Outdoor Chocolate Tellenzi 196",
+        "img":"assets/images/zapato.jpg",
+        "precio":10.00
+    },
+    {
+        "id":2, 
+        "name":"GAP", 
+        "description":"Jean Azul GAP",
+        "img":"assets/images/gap.jpg",
+        "precio":10.00
+    },
+    {
+        "id":3, 
+        "name":"Royal County", 
+        "description":"Tenis Azul Navy-Beige Royal County of Berkshire Polo Club",
+        "img":"assets/images/polo.jpg",
+        "precio":20.00
+    },
+    {
+        "id":4, 
+        "name":"Vintage", 
+        "description":"Reloj B Ray 9003 Cronografo - Negro",
+        "img":"assets/images/reloj.jpg",
+        "precio":119900.00
+    },
+    {
+        "id":5, 
+        "name":"Oakley", 
+        "description":"Gafas Negras-Naranjas Oakley Kinder Sonnenbrille",
+        "img":"assets/images/gafas.jpg",
+        "precio":125000.00
+    },
+    {
+        "id":6, 
+        "name":"Tanino", 
+        "description":"Billetera Para Hombre De Cuero Vintage",
+        "img":"assets/images/tanino.jpg",
+        "precio":76900.00
+    }   
+]
